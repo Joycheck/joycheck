@@ -34,6 +34,8 @@ Browser-tested notes on the Gamepad API behind JoyCheck:
 
 - [Gamepad API browser support](docs/gamepad-api-browser-support.md) — what works where (buttons, axes, vibration) and the quirks that bite.
 - [Detecting analog stick drift in the browser](docs/detecting-stick-drift.md) — reading axis values, deadzone vs. genuine hardware failure, with code.
+- [Measuring controller polling rate in the browser](docs/controller-polling-rate.md) — observed update rate in Hz, wired vs. Bluetooth, and the requestAnimationFrame caveat.
+- [دليل فحص يد التحكم أونلاين (Arabic)](docs/ar-gamepad-tester-guide.md) — كيف تفحص يد التحكم من الدريفت في المتصفح.
 
 ## About
 
