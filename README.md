@@ -28,6 +28,13 @@ Most controller testers make you install software, create an account, or send yo
 - [Deadzone tester](https://joycheck.io/deadzone-tester/)
 - [Calibration hub](https://joycheck.io/calibration-tester/)
 
+## Reference notes
+
+Browser-tested notes on the Gamepad API behind JoyCheck:
+
+- [Gamepad API browser support](docs/gamepad-api-browser-support.md) — what works where (buttons, axes, vibration) and the quirks that bite.
+- [Detecting analog stick drift in the browser](docs/detecting-stick-drift.md) — reading axis values, deadzone vs. genuine hardware failure, with code.
+
 ## About
 
 Built by Taimoor Bamazai, founder of [Elites Algorithm Limited](https://elitesalgorithm.com/).

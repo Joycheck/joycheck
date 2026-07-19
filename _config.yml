@@ -1,0 +1,3 @@
+theme: jekyll-theme-cayman
+title: JoyCheck — Gamepad API Notes
+description: Browser-tested Gamepad API reference and stick-drift detection notes, backing the free tester at joycheck.io.
